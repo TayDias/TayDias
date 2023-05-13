@@ -7,7 +7,7 @@ My name is Taynara and I love working with technology. I have a Bachelor's degre
 I'm passionate about science in general, music, literature and martial arts.
 <br>
 
-<h3>Things I code with:</h3>
+<h3>Things I work with:</h3>
 <br>
 
 <!-- TECNOLOGIAS -->
