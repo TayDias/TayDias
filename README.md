@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-My name is Taynara and I love working with technology. I have a Bachelor's degree in Information Systems and I've already worked as a chatbot developer and (back-end|full-stack) web developer. I have also worked as Tech Lead in a student charity project.
+My name is Taynara and I love working with technology. I have a Bachelor's degree in Information Systems and I've already worked as chatbot and web developer. I have also worked as Tech Lead in a student charity project.
 
 I'm passionate about science in general, music, literature and martial arts.
 <br>
