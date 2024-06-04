@@ -11,8 +11,6 @@ I'm passionate about science in general, music, literature and martial arts.
 <br>
 
 <!-- TECNOLOGIAS -->
-<div align="center">
-
 ### 🤖 Artificial Intelligence and Bots
 
 ![Dialogflow](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
@@ -83,5 +81,4 @@ I'm passionate about science in general, music, literature and martial arts.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-</div>
 <br>
